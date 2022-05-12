@@ -81,7 +81,7 @@ while Limit == True:
         driver.get(link)
         driver.implicitly_wait(3)
 
-        ### Finding senator's surname and their vote bu CSS_SELECTOR by class distinction 
+        ### Finding senator's surname and their vote with CSS_SELECTOR by class distinction 
         senators = driver.find_elements(By.CSS_SELECTOR, ".col-sm-4")  #senator's surname 
         glosy = driver.find_elements(By.CSS_SELECTOR, ".col-sm-2")    #senator's vote 
 
