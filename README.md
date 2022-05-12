@@ -9,7 +9,7 @@ Welcome to the repository of our webscraping project, dedicated to gathering Rol
 Download the entire uploaded Senat project folder (you can put it on the desktop) Open a cmd console in Visual Studio Code. Then you will need to change a working directory to this folder containing the spider. For instance, on my desktop, I would use cd C:\Users\mj\Desktop\projects\scrapy Then you are ready to go. You will probably want to save scraped data to some CSV, if so, use a command like this: scrapy crawl senat_scraper -o filename.csv
 <br><br>
 <b>Beautiful Soup scraper:</b><br>
-Download a file "MSsenat - BS4" placed in a "BeautifulSoup" folder. You don't need anything else, location is not important. Open the file in the Visual Studio and run the code section by section. The code also generates XLSX file at the end with whole output.
+Download a file "MSsenat - BS4" placed in a "soup" folder. You don't need anything else, location is not important. Open the file in the Visual Studio and run the code section by section. The code also generates XLSX file at the end with whole output.
 <br>
 <br>
 <b>Note:</b>
