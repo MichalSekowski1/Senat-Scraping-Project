@@ -13,7 +13,7 @@ from urllib.request import Request, urlopen
 
 #                      0 - LIMIT OFF
 #                      1 - LIMIT ON
-limit = 0
+limit = 1
 
 ###################### LINKS PART 1 ####################################
 
