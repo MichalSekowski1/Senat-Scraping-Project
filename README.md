@@ -14,4 +14,4 @@ Download a file "MSsenat - BS4" placed in a "BeautifulSoup" folder. You don't ne
 <br>
 Note that Scrapy and Selenium scrapers have a built-in page limiter. By default, it will scrap data from just 100 pages. If you would like to scrap all data available ( that is from 500+ pages) you will have to change the value of a boolean called "limit" to False.
 
-[Project link] (https://github.com/MichalSekowski1/Senat-Scraping-Project?fbclid=IwAR1rZjWLQZxDVq0A4iMpxYefmOJHn5u_DO-tpZPQmHWrxpv_Z2KKsqkp3Zw)
+[Project link](https://github.com/MichalSekowski1/Senat-Scraping-Project?fbclid=IwAR1rZjWLQZxDVq0A4iMpxYefmOJHn5u_DO-tpZPQmHWrxpv_Z2KKsqkp3Zw)
