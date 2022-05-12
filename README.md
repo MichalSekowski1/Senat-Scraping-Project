@@ -15,4 +15,6 @@ Download a file "MSsenat - BS4" placed in a "soup" folder. You don't need anythi
 <b>Note:</b>
 Note that all scrapers have a built-in page limiter. By default, it will scrap data from just 100 pages. If you would like to scrap all data available ( that is from 500+ pages) you will have to change the value of a boolean called "limit" to False.
 
-[Project link](https://github.com/MichalSekowski1/Senat-Scraping-Project?fbclid=IwAR1rZjWLQZxDVq0A4iMpxYefmOJHn5u_DO-tpZPQmHWrxpv_Z2KKsqkp3Zw)
+COS COS 
+
+COS COS 
