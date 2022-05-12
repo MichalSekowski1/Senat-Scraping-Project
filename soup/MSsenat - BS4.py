@@ -11,9 +11,9 @@ from urllib.request import Request, urlopen
 
 ########################## LIMIT #######################################
 
-#                      0 - LIMIT OFF
-#                      1 - LIMIT ON
-limit = 1
+#                      False - LIMIT OFF
+#                      True - LIMIT ON
+limit = True
 
 ###################### LINKS PART 1 ####################################
 
